@@ -13,3 +13,4 @@ paths:
             text/plain:
               schema:
                 type: string
+# Lab01 OpenAPI Spec
